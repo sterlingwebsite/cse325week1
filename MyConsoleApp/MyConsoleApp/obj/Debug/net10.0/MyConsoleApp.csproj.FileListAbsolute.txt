@@ -1,0 +1,14 @@
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.exe
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.deps.json
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.runtimeconfig.json
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.dll
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\bin\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfoInputs.cache
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.AssemblyInfo.cs
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.dll
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\refint\MyConsoleApp.dll
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.pdb
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\MyConsoleApp.genruntimeconfig.cache
+C:\Users\smste\OneDrive\school\byupathway2026block6\cse325\week1\MyConsoleApp\MyConsoleApp\obj\Debug\net10.0\ref\MyConsoleApp.dll
